@@ -10,8 +10,8 @@ The fundamental 32-bit instruction set of RISC-V is being implemented and develo
 | IMemory | 0x8000_0000 | 0x800 | 
 | DMemory | 0x9000_0000 | 0x800 | 
 | UART_RW | 0x1001_0000 | 0x4  | 
-| UART_STATUS | 0x1001_0000 | 0x4  |
-| BAUD_MAX_ADDRESS | 0x1001_0000 | 0x4  |
+| UART_STATUS | 0x1001_0005 | 0x4  |
+| BAUD_MAX_ADDRESS | 0x1001_0100 | 0x4  |
 
 ## ALU Decoder Truth Table
 |ALUOp|funct3|{op5,funct75}|ALUConrtol|instr|
