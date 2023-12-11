@@ -35,7 +35,7 @@ The fundamental 32-bit instruction set of RISC-V is being implemented and develo
 |0000|add|+|
 |0001|sub|-|
 |0010|and|&|
-|0011|or|||
+|0011|or|\||
 |0100|xor|^|
 |0101|slt|<|
 |0110|sltu|<|
@@ -48,3 +48,10 @@ The fundamental 32-bit instruction set of RISC-V is being implemented and develo
 |1101|geu|>=|
 |1110| | |
 |1111| | |
+
+## Development Background
+We have been conducting a technical book reading circle with classmates from an industrial high school. During one of these sessions, we successfully created a small-scale pipeline processor, leading us to decide to apply for the Open MPW Shuttle program. 
+
+The original repository for this project can be found at https://github.com/wakuto/our_first_cpu.
+
+The development team includes kirika1221,sushiyoshi, and wakuto.
