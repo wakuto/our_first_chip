@@ -59,4 +59,3 @@ We have been conducting a technical book reading circle with classmates from an 
 The original repository for this project can be found at https://github.com/wakuto/our_first_cpu.
 
 The development team includes kirika1221,sushiyoshi, and wakuto.
- sample project documentation. -->
